@@ -1,0 +1,14 @@
+{
+  "libraryStrings": {
+    "transformLabel": "تحول",
+    "editLabel": "تحرير",
+    "removeLabel": "حذف",
+    "bringToFrontLabel": "جلب للمقدمة",
+    "sendToBackLabel": "ارسال للخلف",
+    "unableToPaste": "لا يمكن لصق هذا الكائن. لسوء الحظ ، فإن الكائن الذي تحاول لصقه لا يدعمه نوع المحتوى أو هذا الإصدار.",
+    "sizeLabel": "حجم",
+    "positionLabel": "موضع",
+    "heightLabel": "ارتفاع",
+    "widthLabel": "عرض"
+  }
+}
